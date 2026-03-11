@@ -10,7 +10,7 @@ O projeto foi desenvolvido aplicando conceitos de estruturação de projeto, org
 
 ## Tecnologias Utilizadas
 
-- Java / Kotlin (ajuste para o que você usou)
+- Kotlin 
 - Android Studio
 - Android SDK
 - Gradle
